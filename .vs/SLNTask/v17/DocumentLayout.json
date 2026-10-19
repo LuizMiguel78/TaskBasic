@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tarde.cetafest\\source\\repos\\LabSoftUseCase1\\SLNTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|c:\\users\\tarde.cetafest\\source\\repos\\labsoftusecase1\\slntask\\apptask\\controllers\\centraldecustocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|solutionrelative:apptask\\controllers\\centraldecustocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|c:\\users\\tarde.cetafest\\source\\repos\\labsoftusecase1\\slntask\\apptask\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|solutionrelative:apptask\\controllers\\departamentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|c:\\users\\tarde.cetafest\\source\\repos\\labsoftusecase1\\slntask\\apptask\\controllers\\incidentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|solutionrelative:apptask\\controllers\\incidentecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|c:\\users\\tarde.cetafest\\source\\repos\\labsoftusecase1\\slntask\\apptask\\models\\dbtaskscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|solutionrelative:apptask\\models\\dbtaskscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|c:\\users\\tarde.cetafest\\source\\repos\\labsoftusecase1\\slntask\\apptask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|solutionrelative:apptask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|c:\\users\\tarde.cetafest\\source\\repos\\labsoftusecase1\\slntask\\apptask\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|solutionrelative:apptask\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CentralDeCustoController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\source\\repos\\LabSoftUseCase1\\SLNTask\\AppTask\\Controllers\\CentralDeCustoController.cs",
+              "RelativeDocumentMoniker": "AppTask\\Controllers\\CentralDeCustoController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\source\\repos\\LabSoftUseCase1\\SLNTask\\AppTask\\Controllers\\CentralDeCustoController.cs",
+              "RelativeToolTip": "AppTask\\Controllers\\CentralDeCustoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:56:49.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartamentoController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\source\\repos\\LabSoftUseCase1\\SLNTask\\AppTask\\Controllers\\DepartamentoController.cs",
+              "RelativeDocumentMoniker": "AppTask\\Controllers\\DepartamentoController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\source\\repos\\LabSoftUseCase1\\SLNTask\\AppTask\\Controllers\\DepartamentoController.cs",
+              "RelativeToolTip": "AppTask\\Controllers\\DepartamentoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:56:03.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IncidenteController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\source\\repos\\LabSoftUseCase1\\SLNTask\\AppTask\\Controllers\\IncidenteController.cs",
+              "RelativeDocumentMoniker": "AppTask\\Controllers\\IncidenteController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\source\\repos\\LabSoftUseCase1\\SLNTask\\AppTask\\Controllers\\IncidenteController.cs",
+              "RelativeToolTip": "AppTask\\Controllers\\IncidenteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:55:33.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbTasksContext.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\source\\repos\\LabSoftUseCase1\\SLNTask\\AppTask\\Models\\DbTasksContext.cs",
+              "RelativeDocumentMoniker": "AppTask\\Models\\DbTasksContext.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\source\\repos\\LabSoftUseCase1\\SLNTask\\AppTask\\Models\\DbTasksContext.cs",
+              "RelativeToolTip": "AppTask\\Models\\DbTasksContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:54:59.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\source\\repos\\LabSoftUseCase1\\SLNTask\\AppTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppTask\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\source\\repos\\LabSoftUseCase1\\SLNTask\\AppTask\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppTask\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T19:54:38.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\tarde.cetafest\\source\\repos\\LabSoftUseCase1\\SLNTask\\AppTask\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "AppTask\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\tarde.cetafest\\source\\repos\\LabSoftUseCase1\\SLNTask\\AppTask\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "AppTask\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T19:54:10.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

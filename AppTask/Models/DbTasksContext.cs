@@ -1,0 +1,120 @@
+﻿using System;
+using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
+
+namespace AppTask.Models;
+
+public partial class DbTasksContext : DbContext
+{
+    public DbTasksContext()
+    {
+    }
+
+    public DbTasksContext(DbContextOptions<DbTasksContext> options)
+        : base(options)
+    {
+    }
+
+    public virtual DbSet<CentralDeCusto> CentralDeCustos { get; set; }
+
+    public virtual DbSet<Departamento> Departamentos { get; set; }
+
+    public virtual DbSet<Funcionario> Funcionarios { get; set; }
+
+    public virtual DbSet<Incidente> Incidentes { get; set; }
+
+    public virtual DbSet<Tarefa> Tarefas { get; set; }
+
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        => optionsBuilder.UseSqlServer("Name=ConexaoSqlServer");
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity<CentralDeCusto>(entity =>
+        {
+            entity.HasKey(e => e.Codigo).HasName("PK__CentralD__06370DAD85BBB4F5");
+
+            entity.ToTable("CentralDeCusto");
+
+            entity.Property(e => e.NomeCentral)
+                .HasMaxLength(250)
+                .IsUnicode(false);
+            entity.Property(e => e.ValorMetaAnual)
+                .HasDefaultValue(0m)
+                .HasColumnType("decimal(18, 0)");
+        });
+
+        modelBuilder.Entity<Departamento>(entity =>
+        {
+            entity.HasKey(e => e.Codigo).HasName("PK__Departam__06370DADF039CB93");
+
+            entity.ToTable("Departamento");
+
+            entity.Property(e => e.Descricao)
+                .HasMaxLength(250)
+                .IsUnicode(false);
+        });
+
+        modelBuilder.Entity<Funcionario>(entity =>
+        {
+            entity.HasKey(e => e.Codigo).HasName("PK__Funciona__06370DAD1DD9D4C6");
+
+            entity.ToTable("Funcionario");
+
+            entity.Property(e => e.Cargo)
+                .HasMaxLength(50)
+                .IsUnicode(false);
+            entity.Property(e => e.Nome)
+                .HasMaxLength(100)
+                .IsUnicode(false);
+        });
+
+        modelBuilder.Entity<Incidente>(entity =>
+        {
+            entity.HasKey(e => e.Codigo).HasName("PK__Incident__06370DAD928520D2");
+
+            entity.ToTable("Incidente");
+
+            entity.Property(e => e.DataIncidente).HasColumnType("datetime");
+            entity.Property(e => e.DescricaoProblema)
+                .HasMaxLength(250)
+                .IsUnicode(false);
+            entity.Property(e => e.Resolvido)
+                .HasMaxLength(3)
+                .IsUnicode(false);
+            entity.Property(e => e.Solucao)
+                .HasMaxLength(250)
+                .IsUnicode(false);
+        });
+
+        modelBuilder.Entity<Tarefa>(entity =>
+        {
+            entity.HasKey(e => e.Codigo).HasName("PK__Tarefa__06370DADF5A8079D");
+
+            entity.ToTable("Tarefa");
+
+            entity.Property(e => e.DataCancelada).HasColumnType("datetime");
+            entity.Property(e => e.DataFinalizada).HasColumnType("datetime");
+            entity.Property(e => e.DataIniciada).HasColumnType("datetime");
+            entity.Property(e => e.DataPlanejada).HasColumnType("datetime");
+            entity.Property(e => e.Descricao)
+                .HasMaxLength(200)
+                .IsUnicode(false);
+            entity.Property(e => e.Prazo)
+                .HasMaxLength(20)
+                .IsUnicode(false);
+            entity.Property(e => e.StatusTarefa)
+                .HasMaxLength(30)
+                .IsUnicode(false);
+
+            entity.HasOne(d => d.Funcionario).WithMany(p => p.Tarefas)
+                .HasForeignKey(d => d.FuncionarioId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Tarefa_Funcionario");
+        });
+
+        OnModelCreatingPartial(modelBuilder);
+    }
+
+    partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
+}
