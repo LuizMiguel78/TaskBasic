@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Tarde.Cetafest\\Documents\\GitHub\\TaskBasic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|c:\\users\\tarde.cetafest\\documents\\github\\taskbasic\\apptask\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|solutionrelative:apptask\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|c:\\users\\tarde.cetafest\\documents\\github\\taskbasic\\apptask\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|solutionrelative:apptask\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|c:\\users\\tarde.cetafest\\documents\\github\\taskbasic\\apptask\\views\\tarefa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|solutionrelative:apptask\\views\\tarefa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|c:\\users\\tarde.cetafest\\documents\\github\\taskbasic\\apptask\\views\\tarefa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|solutionrelative:apptask\\views\\tarefa\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|c:\\users\\tarde.cetafest\\documents\\github\\taskbasic\\apptask\\views\\tarefa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|solutionrelative:apptask\\views\\tarefa\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|c:\\users\\tarde.cetafest\\documents\\github\\taskbasic\\apptask\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|solutionrelative:apptask\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F2CC133-D5CB-4B6C-8F6A-23EF7E161E4A}|AppTask\\AppTask.csproj|c:\\users\\tarde.cetafest\\documents\\github\\taskbasic\\apptask\\controllers\\centraldecustocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,6 +59,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Tarde.Cetafest\\Documents\\GitHub\\TaskBasic\\AppTask\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "AppTask\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Tarde.Cetafest\\Documents\\GitHub\\TaskBasic\\AppTask\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "AppTask\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-26T19:50:01.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tarde.Cetafest\\Documents\\GitHub\\TaskBasic\\AppTask\\Views\\Tarefa\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AppTask\\Views\\Tarefa\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Tarde.Cetafest\\Documents\\GitHub\\TaskBasic\\AppTask\\Views\\Tarefa\\Edit.cshtml",
+              "RelativeToolTip": "AppTask\\Views\\Tarefa\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T19:49:48.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tarde.Cetafest\\Documents\\GitHub\\TaskBasic\\AppTask\\Views\\Tarefa\\Create.cshtml",
+              "RelativeDocumentMoniker": "AppTask\\Views\\Tarefa\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Tarde.Cetafest\\Documents\\GitHub\\TaskBasic\\AppTask\\Views\\Tarefa\\Create.cshtml",
+              "RelativeToolTip": "AppTask\\Views\\Tarefa\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAcwEoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-26T19:49:07.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Tarde.Cetafest\\Documents\\GitHub\\TaskBasic\\AppTask\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "AppTask\\wwwroot\\css\\site.css",
@@ -65,14 +116,14 @@
               "RelativeDocumentMoniker": "AppTask\\Views\\Tarefa\\Index.cshtml",
               "ToolTip": "C:\\Users\\Tarde.Cetafest\\Documents\\GitHub\\TaskBasic\\AppTask\\Views\\Tarefa\\Index.cshtml",
               "RelativeToolTip": "AppTask\\Views\\Tarefa\\Index.cshtml",
-              "ViewState": "AgIAADoAAAAAAAAAAAAcwEgAAABtAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwFQAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-26T19:35:27.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CentralDeCustoController.cs",
               "DocumentMoniker": "C:\\Users\\Tarde.Cetafest\\Documents\\GitHub\\TaskBasic\\AppTask\\Controllers\\CentralDeCustoController.cs",
               "RelativeDocumentMoniker": "AppTask\\Controllers\\CentralDeCustoController.cs",
@@ -80,12 +131,11 @@
               "RelativeToolTip": "AppTask\\Controllers\\CentralDeCustoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-19T19:56:49.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T19:56:49.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "DepartamentoController.cs",
               "DocumentMoniker": "C:\\Users\\Tarde.Cetafest\\Documents\\GitHub\\TaskBasic\\AppTask\\Controllers\\DepartamentoController.cs",
               "RelativeDocumentMoniker": "AppTask\\Controllers\\DepartamentoController.cs",
@@ -97,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IncidenteController.cs",
               "DocumentMoniker": "C:\\Users\\Tarde.Cetafest\\Documents\\GitHub\\TaskBasic\\AppTask\\Controllers\\IncidenteController.cs",
               "RelativeDocumentMoniker": "AppTask\\Controllers\\IncidenteController.cs",
@@ -109,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "DbTasksContext.cs",
               "DocumentMoniker": "C:\\Users\\Tarde.Cetafest\\Documents\\GitHub\\TaskBasic\\AppTask\\Models\\DbTasksContext.cs",
               "RelativeDocumentMoniker": "AppTask\\Models\\DbTasksContext.cs",
@@ -121,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Tarde.Cetafest\\Documents\\GitHub\\TaskBasic\\AppTask\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AppTask\\Views\\Shared\\_Layout.cshtml",
@@ -133,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "FuncionarioController.cs",
               "DocumentMoniker": "C:\\Users\\Tarde.Cetafest\\Documents\\GitHub\\TaskBasic\\AppTask\\Controllers\\FuncionarioController.cs",
               "RelativeDocumentMoniker": "AppTask\\Controllers\\FuncionarioController.cs",
