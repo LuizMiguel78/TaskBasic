@@ -17,145 +17,145 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AppTask
 build_property.RootNamespace = AppTask
-build_property.ProjectDir = C:\Users\tarde.cetafest\Source\Repos\LabSoftUseCase1\SLNTask\AppTask\
+build_property.ProjectDir = C:\Users\Tarde.Cetafest\Documents\GitHub\TaskBasic\AppTask\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\tarde.cetafest\Source\Repos\LabSoftUseCase1\SLNTask\AppTask
+build_property.MSBuildProjectDirectory = C:\Users\Tarde.Cetafest\Documents\GitHub\TaskBasic\AppTask
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/CentralDeCusto/Create.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/CentralDeCusto/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VudHJhbERlQ3VzdG9cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/CentralDeCusto/Delete.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/CentralDeCusto/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VudHJhbERlQ3VzdG9cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/CentralDeCusto/Details.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/CentralDeCusto/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VudHJhbERlQ3VzdG9cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/CentralDeCusto/Edit.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/CentralDeCusto/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VudHJhbERlQ3VzdG9cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/CentralDeCusto/Index.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/CentralDeCusto/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2VudHJhbERlQ3VzdG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Departamento/Create.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Departamento/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Departamento/Delete.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Departamento/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Departamento/Details.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Departamento/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Departamento/Edit.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Departamento/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Departamento/Index.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Departamento/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0YW1lbnRvXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Funcionario/Create.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Funcionario/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Funcionario/Delete.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Funcionario/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Funcionario/Details.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Funcionario/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Funcionario/Edit.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Funcionario/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Funcionario/Index.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Funcionario/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnVuY2lvbmFyaW9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Home/Index.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Home/Privacy.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Incidente/Create.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Incidente/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRlXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Incidente/Delete.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Incidente/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRlXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Incidente/Details.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Incidente/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRlXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Incidente/Edit.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Incidente/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRlXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Incidente/Index.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Incidente/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbnRlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Shared/Error.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Tarefa/Create.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Tarefa/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Tarefa/Delete.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Tarefa/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Tarefa/Details.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Tarefa/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Tarefa/Edit.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Tarefa/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Tarefa/Index.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Tarefa/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Tarefa/Sobre.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Tarefa/Sobre.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFyZWZhXFNvYnJlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/_ViewImports.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/_ViewStart.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tarde.cetafest/Source/Repos/LabSoftUseCase1/SLNTask/AppTask/Views/Shared/_Layout.cshtml]
+[C:/Users/Tarde.Cetafest/Documents/GitHub/TaskBasic/AppTask/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-u3jw7sg2ro

@@ -1,22 +1,103 @@
-html {
-  font-size: 14px;
+<!--
+
+Estilo Mínimo Nativo -->
+<style >
+/* Fundo escuro translúcido (Backdrop) */
+.modal-fundo {
+    display: none; /* Inicia oculto */
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1000;
 }
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
+/* Caixa do Modal */
+.modal-caixa {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    min-width: 320px;
 }
 
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+.modal-acoes {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-top: 20px;
 }
 
-html {
-  position: relative;
-  min-height: 100%;
+</style >
+<!-- Exemplo de Tabela com Botão Excluir Nativo -->
+<table >
+<tr >
+<td > Criar tela de Login</td >
+<td >
+<button type="button" class="btn-delete" data-id="1" data-descricao="Criar tela de Login" >
+Delete
+</button >
+</td >
+</tr >
+</table >
+<!-- Estrutura do Modal -->
+<div id="meuModal" class="modal-fundo" >
+<div class="modal-caixa" >
+<h3 > Confirmação de Exclusão</h3 >
+<p > Deseja realmente excluir a tarefa: <strong id="tarefaDescricao" > </strong > ?</p >
+
+<div class="modal-acoes" >
+<!-- Botão de Fechar Nativo -->
+<button type="button" id="btnFechar" > Cancelar</button >
+<!-- Formulário HTML que dispara o POST para a Controller -->
+<form id="deleteForm" method="post" action="" >
+@Html.AntiForgeryToken()
+<button type="submit" > Sim, Excluir</button >
+</form >
+</div >
+</div >
+</div >
+<!-- Script Puro (Zero Bibliotecas) -->
+<script >
+var modal = document.getElementById('meuModal');
+var btnFechar = document.getElementById('btnFechar');
+var deleteForm = document.getElementById('deleteForm');
+var modalDescricaoSpan = document.getElementById('tarefaDescricao');
+
+// 1. Função manual para ABRIR o modal e injetar os dados da tarefa
+function abrirModal(id, descricao) {
+    // Atualiza a descrição na tela modalDescricaoSpan.textContent = descricao;
+    // Configura a rota de envio da controller dinamicamente (ex: /Tarefa/Delete/1) deleteForm.action = '/Tarefa/Delete/' + id;
+    // Exibe o modal modal.style.display = 'block';
 }
 
-body {
-  margin-bottom: 60px;
+// 2. Função manual para FECHAR o modal
+function fecharModal() {
+    modal .style.display = 'none';
 }
+
+// 3. Captura o clique em qualquer botão "Delete" da tabela
+document.querySelectorAll('.btn-delete').forEach(function(button) {
+        button.addEventListener('click', function() {
+            var id = this.getAttribute('data-id');
+            var descricao = this.getAttribute('data-descricao');
+            abrirModal(id, descricao);
+        });
+    });
+
+// 4. Evento de clique no botão Cancelar
+btnFechar.addEventListener('click', fecharModal);
+
+// 5. Fechar ao clicar no fundo escuro translúcido
+window.addEventListener('click', function(event) {
+        if (event.target === modal) {
+            fecharModal();
+        }
+    });
+</script >
